@@ -20,3 +20,7 @@ Hello i go by Carl.
 <a href="https://en.wikipedia.org/wiki/CSS">
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat">
 </a>
+
+<a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
+  <img alt="Unity" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">
+</a>
