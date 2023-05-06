@@ -22,5 +22,9 @@ Hello i go by Carl.
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
-  <img alt="Unity" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">
+</a>
+
+<a href="https://en.wikipedia.org/wiki/Three.js">
+  <img alt="Unity" src="https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=flat">
 </a>
