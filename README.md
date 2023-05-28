@@ -6,7 +6,7 @@ Hello i go by Carl.
 </a>
 
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-  <img alt="C Sharp" src="https://img.shields.io/badge/-C%20Sharp-239120?logo=c-sharp&logoColor=white&style=flat">
+  <img alt="C#" src="https://img.shields.io/badge/-C%20Sharp-239120?logo=c-sharp&logoColor=white&style=flat">
 </a>
 
 <a href="https://en.wikipedia.org/wiki/JavaScript">
