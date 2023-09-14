@@ -1,6 +1,6 @@
 # carlgustavh
 Hello i go by Carl.
-## I'm exeperienced with...
+## I'm experienced with...
 <a href="https://en.wikipedia.org/wiki/Unity_(game_engine)">
   <img alt="Unity" src="https://img.shields.io/badge/-Unity-FFFFFF?logo=unity&logoColor=black&style=flat">
 </a>
